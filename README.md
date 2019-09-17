@@ -1,4 +1,6 @@
-# Newspaper
+# NOTE: This version of the app is no longer maintained or supported, and is superseded with the [Kotlin version of Newspaper](https://github.com/Talha-AK/Newspaper)
+
+## Newspaper
 A (mostly) material design complient news app that lets you choose what you want to be updated about. News provided by [newsapi.org](https://newsapi.org/)
 
 <img src="docs/Screenshot_onboard.png" alt="App onboarding screen" title="Welcome Screen" width="210px"> <img src="docs/Screenshot_screen1.png" alt="Personal news screen" title="Personal news Screen" width="210px"> <img src="docs/Screenshot_screen2.png" alt="Location based news screen" title="Local news Screen" width="210px"> <img src="docs/Screenshot_screen3.png" alt="Webpage of news article" title="News Article in app" width="210px">
